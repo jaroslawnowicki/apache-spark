@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Scala template
+*.class
+*.log
+
+__artifacts_temp/
+metastore_db/
+
+test.jar
+out.jar
+R3.jar
+R4.jar
+
